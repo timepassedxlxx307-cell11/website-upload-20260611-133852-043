@@ -1,0 +1,15 @@
+parsed_movies: 2000
+detail_pages: 2000
+category_pages: 12
+html_pages: 2015
+baidu_html_pages: 2015
+player_pages: 2000
+stream_bound_pages: 2000
+play_overlay_pages: 2000
+assigned_movies: 2000
+category_linked_unique_movies: 2000
+index_linked_unique_movies: 2000
+jpg_like_files_in_site: 0
+jpg_like_files_in_zip: 0
+zip_files: 2020
+zip_size_bytes: 9388509
